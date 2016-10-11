@@ -12,6 +12,10 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Acknowledgements
+=================
+Website paper background by MapleRose, may be used freely via http://maplerose-stock.deviantart.com/art/Rice-paper-texture-172001815
+
 License/Copyright
 =================
 

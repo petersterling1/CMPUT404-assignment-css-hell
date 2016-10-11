@@ -5,11 +5,19 @@
 		font-family: "Georgia";
 		}
 		
-    P { 
-	text-indent: 1em; 
-	margin-top: .25em; 
-	margin-bottom: .25em; 
+	p::first-letter{
+		text-transform: uppercase;
 	}
+		
+    P { 
+	font-family: "Georgia"
+	text-indent: 2em; 
+	margin-top: 1em; 
+	margin-bottom: .25em; 
+	text-align: justify;
+	text-indent: 1em;
+	}
+
 	
 	H1 {
 		font-size: 3.5em;
@@ -36,6 +44,11 @@
 	background: white;
 	}
 	
+	img {
+		border: 3px solid black;
+		border-radius: 80px;
+	}
+	
     H3,H4,H5,H6
 	{ text-align: center; 
 	margin-left: 15%; 
@@ -46,6 +59,13 @@
 	width: 50%; 
 	text-align:
 	center;}
+	
+	.center_caption
+	{
+		border: 3px solid black;
+		text-align: center;
+		border-radius: 80px;
+	}
 	
     .foot 
 	{ margin-left: 20%; 

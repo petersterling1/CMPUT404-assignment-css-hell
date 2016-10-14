@@ -15,6 +15,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 Notes
 =================
 All 3 Project Gutenberg HTML files have been stripped of all their CSS and now have a link to bookcss.css
+
 Only one HTML file has images (A Tale of Two Cities)
 
 Acknowledgements

@@ -19,7 +19,6 @@
 	
 	img {
 		float: right;
-		filter: greyscale;
 		padding-right: 5em;
 		padding-left: 2em;
 	}

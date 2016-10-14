@@ -22,10 +22,12 @@ Acknowledgements
 =================
 Website paper background by MapleRose, may be used freely via http://maplerose-stock.deviantart.com/art/Rice-paper-texture-172001815
 
+Rainbow CSS font adapted from https://gist.github.com/ratbeard/9076500 by ratbeard
+
 License/Copyright
 =================
 
-Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
+Textual content is copyright Abram Hindle/Peter Sterling (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
 

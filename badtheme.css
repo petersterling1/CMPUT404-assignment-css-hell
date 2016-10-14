@@ -48,6 +48,14 @@
 		
 	}
 	
+	.speechbubble {
+		width: 600px;
+		height: 200px;
+		background-image: url('images/speechbubble.png');
+		position: relative;
+		float: right;
+	}
+	
 	.sidebar {
 		height: 100%;
 		display: inline;

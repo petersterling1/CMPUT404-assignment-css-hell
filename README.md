@@ -20,6 +20,16 @@ Only one HTML file has images (A Tale of Two Cities)
 
 For Part 2, the two html files are the same except for the link to the CSS file.
 
+Changes in Part 1
+=================
+body: added paper background, set font to Georgie
+links: made black
+paragraphs: first letter is upper case, added an ident to each paragraph, added more space inbetween lines
+header 1: made bigger, italic, added border and background color
+other headers: made bigger, added border and background color, made small-caps
+images: added borders, rounded corners, made greyscale
+captions: added border, made background white
+
 Acknowledgements
 =================
 Website paper background by MapleRose, may be used freely via http://maplerose-stock.deviantart.com/art/Rice-paper-texture-172001815

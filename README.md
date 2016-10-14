@@ -18,7 +18,7 @@ All 3 Project Gutenberg HTML files have been stripped of all their CSS and now h
 
 Only one HTML file has images (A Tale of Two Cities)
 
-For Part 2, the two html files are the same except for the link to the bad/good CSS file.
+For Part 2, the two html files are the same except for the link to the bad/good CSS file. For the bad CSS, my name at the top of the file is rainbow in Chrome, but in Firefox appears black.
 
 Changes in Part 1
 =================

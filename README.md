@@ -23,11 +23,17 @@ For Part 2, the two html files are the same except for the link to the CSS file.
 Changes in Part 1
 =================
 body: added paper background, set font to Georgie
+
 links: made black
+
 paragraphs: first letter is upper case, added an ident to each paragraph, added more space inbetween lines
+
 header 1: made bigger, italic, added border and background color
+
 other headers: made bigger, added border and background color, made small-caps
+
 images: added borders, rounded corners, made greyscale
+
 captions: added border, made background white
 
 Acknowledgements

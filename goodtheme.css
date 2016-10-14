@@ -1,0 +1,101 @@
+	body {
+		background: #333333;
+		font-family: Roboto, Arial, sans-serif;
+	}
+	
+	h1 {
+		padding-top: 1.5em;
+		margin: 0px;
+		color: white;
+		font-weight: bold;
+		font-size: 300%;
+	}
+	
+	h2 {
+		color: black;
+		font-weight: bold;
+		font-size: 175%;
+	}
+	
+	img {
+		float: right;
+		filter: greyscale;
+		padding-right: 5em;
+		padding-left: 2em;
+	}
+	
+	p {
+		line-height: 20pt;
+	}
+	
+	.content {
+		width: 90%;
+		margin: 0;
+		height: 100%;
+		background: white;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 1.5em;
+		box-sizing: border-box;
+		
+		
+	}
+	
+	.sidebar {
+		height: 100%;
+		display: inline;
+		float: right;
+		background: #dddddd;
+		width: 20%;
+		padding-left: 1.5em;
+		padding-right: 1.5em;
+		box-sizing: border-box;
+	}
+	
+	.navbar  {
+		list-style-type: none;
+		width: 90%;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background: linear-gradient(#444444, #555555); /* Standard syntax */
+		margin-left: auto;
+		margin-right: auto;
+		height: 2em;
+		vertical-align: middle;
+}
+
+	.navbarlink {
+		color: white;
+		text-decoration: none;
+		padding-right: 1.5em;
+		padding-left: 1.5em;
+		display: inline-block;
+		height: 100%;
+		padding-top: 0.3em;
+	}
+	
+	.navbarlink:hover{
+		background: black;
+	}
+	
+	.topbar {
+		background: #764F2E;
+		width: 90%;
+		height: 2em;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 0px;
+		float: center;
+	}
+	
+	.secondtopbar{
+		background: radial-gradient(#3399cc, #006699);
+		width: 90%;
+		height: 10em;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+		float: center;
+		vertical-align: text-center;
+	}

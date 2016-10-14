@@ -18,7 +18,7 @@ All 3 Project Gutenberg HTML files have been stripped of all their CSS and now h
 
 Only one HTML file has images (A Tale of Two Cities)
 
-For Part 2, the two html files are the same except for the link to the CSS file.
+For Part 2, the two html files are the same except for the link to the bad/good CSS file.
 
 Changes in Part 1
 =================
@@ -41,6 +41,8 @@ Acknowledgements
 Website paper background by MapleRose, may be used freely via http://maplerose-stock.deviantart.com/art/Rice-paper-texture-172001815
 
 Rainbow CSS font adapted from https://gist.github.com/ratbeard/9076500 by ratbeard
+
+Roboto imported via Google fonts at https://fonts.google.com/
 
 License/Copyright
 =================

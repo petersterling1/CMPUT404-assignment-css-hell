@@ -44,6 +44,8 @@ Rainbow CSS font adapted from https://gist.github.com/ratbeard/9076500 by ratbea
 
 Roboto imported via Google fonts at https://fonts.google.com/
 
+Got ideas what to put on the personal webpage from Brandon Williams
+
 License/Copyright
 =================
 
